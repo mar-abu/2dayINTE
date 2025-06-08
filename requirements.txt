@@ -1,0 +1,4 @@
+python-dotenv==1.0.0
+gigachat>=0.1.39.post1
+langchain-gigachat==0.3.10
+langchain>=0.1.0 
