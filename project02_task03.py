@@ -10,6 +10,12 @@ import json
 from dotenv import load_dotenv
 ihdfijbdgkdbfgkjdbgijbdfgjkg
 
+
+ыдвиадрвиыалриывадрывдаромывдарлмылрвамырвмарлымарымва
+
+
+
+
 # Загрузка переменных окружения
 load_dotenv()
 
