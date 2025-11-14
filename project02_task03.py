@@ -8,6 +8,7 @@ from langchain.tools import BaseTool
 from pydantic import BaseModel, Field
 import json
 from dotenv import load_dotenv
+ihdfijbdgkdbfgkjdbgijbdfgjkg
 
 # Загрузка переменных окружения
 load_dotenv()
